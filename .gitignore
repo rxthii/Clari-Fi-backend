@@ -1,0 +1,13 @@
+**/.env
+**/.venv/
+**/node_modules/
+**/dist/
+**/__pycache__/
+**/.pytest_cache/
+**/uploads/*
+!**/uploads/.gitkeep
+clarifi/Clari-Fi
+clarifi/Clari-Fi.py
+**/Clari-Fi
+**/Clari-Fi.py
+**/clarifi.py
